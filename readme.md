@@ -1,6 +1,6 @@
 <img src="https://miro.medium.com/max/1756/1*fzcYZIhdZjuQaT8gTk1YAQ.png" title="" alt="Typescript|Node|Express" data-align="center">
 
-# Typescript Node Template
+# GoBarber - Backend
 
 ---
 
@@ -56,7 +56,7 @@ This template was built with these technologies:
 
 - Fork this repo!
 
-- Clone this repo to your local machine using 
+- Clone this repo to your local machine using
 ```shell
 git clone https://github.com/lucaszunder/node-ts-template.git
 ```
